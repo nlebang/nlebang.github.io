@@ -113,7 +113,7 @@
         "Real-time and HIL validation",
         "Optimization",
         "Data analysis",
-        "Control and Management",
+        "Control and Management"
       ]
     },
 	{
@@ -124,7 +124,7 @@
         "Anomaly detection",
         "Pytorch, Tensorflow",
         "Back-end programming",
-        "Data visualization",
+        "Data visualization"
       ]
     }
   ],
@@ -158,4 +158,3 @@
       "reference": "He is my mentor, back to my time at NREL (National Renewable Energy Laboratory. He is the image of how a leader should be."
     }
   ],
-
