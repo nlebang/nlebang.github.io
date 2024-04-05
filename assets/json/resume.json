@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Bang Nguyen",
-    "label": "Engineer",
+    "name": "Bang Nguyen, Ph.D.",
+    "label": "Engineer, Scientist",
     "image": "",
     "email": "bang.nguyen.colab@gmail.com",
     "phone": "(505) 929-5937",
@@ -27,8 +27,8 @@
       "name": "Los Alamos National Laboratory",
       "position": "R&D Engineer",
       "url": "...",
-      "startDate": "Feb. 2023",
-      "endDate": "Current",
+      "startDate": "2023.02",
+      "endDate": "now",
       "summary": "DC and pulsed power technology.",
       "highlights": ["Pulse Modulator"]
     }
@@ -36,11 +36,11 @@
   "volunteer": [
     {
       "organization": "IEEE",
-      "position": "Senior Member, Reviewer, Contributor",
+      "position": "Senior Member",
       "url": "...",
-      "startDate": "...",
-      "endDate": "...",
-      "summary": "...",
+      "startDate": "2016",
+      "endDate": "now",
+      "summary": "Reviewer of IEEE Transactions and Journals, Contributors of serveral IEEE Taskforces.",
       "highlights": ["Secrectary of IEEE Los Alamos Section"]
     }
   ],
@@ -51,106 +51,86 @@
       "url": "...",
       "area": "Machine Learning and Power System",
       "studyType": "PhD",
-      "startDate": "Jan. 2019",
-      "endDate": "Dec. 2022",
-      "score": "...",
+      "startDate": "2019.01",
+      "endDate": "2022.12",
+      "score": "3.667/4",
       "courses": ["Model-Based Dynamic State Estimation and Deep Learning on Graphs for Fault Detection in Microgrids and Active Distribution Systems"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "IEEE Best Paper Award for the IEEE Industrial Electronics Magazine",
+      "date": "2021",
+      "awarder": "IEEE IES Society",
+      "url": "https://iten.ieee-ies.org/journal-award-paper/2022/cyber-physical-microgrids-toward-future-resilient-communities/",
+      "summary": "2021 Best Paper Award for the IEEE Industrial Electronics Magazine for the article: Cyber-Physical Microgrids: Toward Future Resilient Communities.'"
     }
   ],
-  "certificates": [
+  
+  "selected publications": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Cyber-Physical Microgrids: Toward Future Resilient Communities",
+      "publisher": "IEEE Industrial Electronics Magazine",
+      "releaseDate": "2020",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9205672",
+      "summary": "Microgrids can be isolated from large-scale power transmission/distribution systems (macrogrids) to deliver energy to their local communities using local energy resources and distribution systems when power outages occur in the macrogrids. In such situations, microgrids could be considered the last available resource to provide energy to critical infrastructure."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Family of integrated multi-input multi-output DC-DC power converters",
+      "publisher": "2018 International Power Electronics Conference",
+      "releaseDate": "2018",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8507791",
+      "summary": "his paper explores a family of integrated multiport converters using three-switch which can provide single-input dual-output (SIDO) or dual-input single-output (DISO) with bidirectional power flow between any two ports. The concept can be extended to the n-switch converters to achieve more inputs and/or outputs. The proposed converters can be applied to interfacing sources, loads and storage elements having different voltage levels in applications such as dc nanogrids, electric vehicle, multiport power supplies, distributed generation systems."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Single-phase six-switch dual-output inverter using dual-buck structure",
+      "publisher": "IEEE Transactions on Power Electronics",
+      "releaseDate": "2017",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8113490",
+      "summary": "In this paper, a novel six-switch dual-output inverter is proposed. The three-switch leg in the proposed inverter is implemented with the dual-buck structure. Hence, it retains all the benefits of the conventional dual-buck inverter such as improved reliability owing to the absence of short-circuit problems and higher efficiency with the use of power metal-oxide-semiconductor field-effect transistor (mosfet) without reverse recovery issues on its body diode. In addition, the passive components can be reduced with the high switching frequency operation."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Power Electronics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SCH, PCB design, test, debug",
+        "Embeded programming",
+        "Magnetic design",
+        "Modeling, simulation",
+        "Hardware-in-the-loop",
+        "System integration"
+      ]
+    },
+	{
+      "name": "Power System",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Large system modeling, simulation",
+        "Real-time and HIL validation",
+        "Optimization",
+        "Data analysis",
+        "Control and Management",
+      ]
+    },
+	{
+      "name": "Machine Learning & software",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Anomaly detection",
+        "Pytorch, Tensorflow",
+        "Back-end programming",
+        "Data visualization",
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -158,42 +138,24 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Korean",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
-  "projects": [
+
+  "references": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Tuyen Vu, Ph.D.",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Tuyen Vu is my PhD advisor. He guided me through my doctoral program and gave me entrepreneurial inspiration."
+    },
+    {
+      "name": "Rob Hovsapian Ph.D.",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "He is my mentor, back to my time at NREL (National Renewable Energy Laboratory. He is the image of how a leader should be."
     }
-  ]
-}
+  ],
+
