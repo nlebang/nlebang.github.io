@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Bang Nguyen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 01st January 1986
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Clarkson University, Potsdam, NY, USA
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Msc
+      institution: VNU-HCM University of Technology, HCM, VIETNAM
+      year: 2013
       description:
         - Description 1.
         - Description 2.
