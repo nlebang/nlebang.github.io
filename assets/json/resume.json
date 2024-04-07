@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Bang Nguyen, Ph.D.",
-    "label": "Engineer, Scientist",
+    "label": "Engineer, Scientist, Entrepreneur",
     "image": "",
     "email": "bang.nguyen.colab@gmail.com",
     "phone": "(505) 929-5937",
@@ -30,7 +30,7 @@
       "startDate": "2023.02",
       "endDate": "now",
       "summary": "DC and pulsed power technology.",
-      "highlights": ["Pulse Modulator"]
+      "highlights": ["Pulse Modulator, Radio Frequency Engineering"]
     }
   ],
   "volunteer": [
@@ -63,7 +63,13 @@
       "date": "2021",
       "awarder": "IEEE IES Society",
       "url": "https://iten.ieee-ies.org/journal-award-paper/2022/cyber-physical-microgrids-toward-future-resilient-communities/",
-      "summary": "2021 Best Paper Award for the IEEE Industrial Electronics Magazine for the article: Cyber-Physical Microgrids: Toward Future Resilient Communities.'"
+      "summary": "2021 Best Paper Award for the IEEE Industrial Electronics Magazine for the article: Cyber-Physical Microgrids: Toward Future Resilient Communities."
+    },
+	{
+      "title": "IEEE NPSS EARLY CAREER TRAVEL GRANT",
+      "date": "2024",
+      "awarder": "IEEE Nuclear and Plasma Sciences Society (NPSS)",
+      "summary": "IPAC's Technical Committee, has made travel grants for up to $5,000 available to Early Career Scientists and Engineers to attend IPAC’24, covering travel, housing and per diem expenses."
     }
   ],
   
@@ -155,7 +161,7 @@
     {
       "name": "Rob Hovsapian Ph.D.",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "He is my mentor, back to my time at NREL (National Renewable Energy Laboratory. He is the image of how a leader should be."
+      "reference": "He is my mentor, back to my time at NREL (National Renewable Energy Laboratory). He is the image of how a leader should be."
     }
   ]
 }
