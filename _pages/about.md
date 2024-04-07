@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://lanl.gov/'>Los Alamos National Laboratory</a>, Los Alamos, New Mexico.
 
