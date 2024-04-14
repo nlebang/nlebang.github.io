@@ -222,11 +222,13 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
-  - do_not_display_pages/
 keep_files:
   - CNAME
   - .nojekyll
