@@ -5,7 +5,7 @@ description: A novel inverter topology using dual-buck structure for dual-output
 img: assets/img/IMG_0024.jpg
 importance: 1
 category: work
-/
+---
 
 We proposed a novel dual-output inverter using dual-buck structure to improve the reliability of the system.
 
